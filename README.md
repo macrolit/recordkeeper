@@ -10,6 +10,8 @@ Advanced CLI tool for automation of Personal Knowledge Management
 
 A modular, highly-configurable, platform-agnostic, extensible, universal file conversion workflow for bulk processing and decentralized archival of exportable collections from any source.
 
+<a href="https://buymeacoffee.com/recordkeeper" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ## What does it currently do?
 
 The project is supposed to serve as a standardized playground for media conversion, retrieval, export and enrichment. Serving as a ground base structure and playground for utilization of conversion scripts along with LLM enhancement.
