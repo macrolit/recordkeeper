@@ -10,7 +10,8 @@ Advanced CLI tool for automation of Personal Knowledge Management
 
 A modular, highly-configurable, platform-agnostic, extensible, universal file conversion workflow for bulk processing and decentralized archival of exportable collections from any source.
 
-<a href="https://buymeacoffee.com/recordkeeper" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://buymeacoffee.com/recordkeeper" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> [![Support on Patreon](https://img.shields.io/badge/Support-Recordkeeper-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/recordkeeper)
+
 
 ## What does it currently do?
 
